@@ -14,7 +14,9 @@ BugReports: https://github.com/Pereirajpf/testpack/issues
 Suggests: 
     knitr,
     rmarkdown,
-    covr
+    covr,
+    testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Imports: 
     tibble
+Config/testthat/edition: 3
