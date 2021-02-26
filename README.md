@@ -9,6 +9,8 @@
 status](https://travis-ci.com/Pereirajpf/testpack.svg?branch=master)](https://travis-ci.com/Pereirajpf/testpack)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/Pereirajpf/testpack?branch=master&svg=true)](https://ci.appveyor.com/project/Pereirajpf/testpack)
+[![Codecov test
+coverage](https://codecov.io/gh/Pereirajpf/testpack/branch/master/graph/badge.svg)](https://codecov.io/gh/Pereirajpf/testpack?branch=master)
 <!-- badges: end -->
 
 The goal of testpack is to do Nothing.
