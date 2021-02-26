@@ -1,7 +1,6 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
 
-language: R
-sudo: false
+language: r
 cache: packages
 warnings_are_errors: true
 
@@ -11,9 +10,8 @@ os:
 
 r:
   - 4.0.3
-  - oldrel
   - release
-  - devel
+  #- devel
 
 r_packages:
   - covr
