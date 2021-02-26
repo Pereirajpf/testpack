@@ -4,6 +4,9 @@
 # testpack
 
 <!-- badges: start -->
+
+[![Travis build
+status](https://travis-ci.com/Pereirajpf/testpack.svg?branch=master)](https://travis-ci.com/Pereirajpf/testpack)
 <!-- badges: end -->
 
 The goal of testpack is to do Nothing.
